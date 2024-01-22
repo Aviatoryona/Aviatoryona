@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/aviator"><img src="https://api.daily.dev/devcards/a94df724be1b4cefadbaae37e011ba63.png?r=tun" width="400" alt="Aviator K's Dev Card"/></a>
+
 - 👋 Hi, I’m @Aviatoryona
 - 👀 I’m interested in <b>Data Analysis, Software Development and Databases</b>
 - 🌱 I’m currently learning <b>SpringBoot and ReactJS </b>
